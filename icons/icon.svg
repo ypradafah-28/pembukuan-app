@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Buku Kas">
+  <title>Buku Kas</title>
+  <defs>
+    <linearGradient id="kulit" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F6F54" />
+      <stop offset="1" stop-color="#164F3C" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#kulit)" />
+  <rect x="126" y="112" width="260" height="288" rx="26" fill="#F4F1E1" />
+  <rect x="126" y="112" width="46" height="288" rx="26" fill="#D9D3BF" />
+  <rect x="204" y="190" width="140" height="18" rx="9" fill="#1F6F54" opacity="0.85" />
+  <rect x="204" y="238" width="110" height="18" rx="9" fill="#1F6F54" opacity="0.6" />
+  <rect x="204" y="286" width="88" height="18" rx="9" fill="#BE8A2A" />
+  <circle cx="352" cy="352" r="50" fill="none" stroke="#BE8A2A" stroke-width="14" stroke-dasharray="16 12" />
+  <circle cx="352" cy="352" r="16" fill="#BE8A2A" />
+</svg>
